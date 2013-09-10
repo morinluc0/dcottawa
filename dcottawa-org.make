@@ -81,6 +81,9 @@ projects[entityreference][subdir] = contrib
 projects[entityreference_prepopulate][version] = "1.2"
 projects[entityreference_prepopulate][subdir] = contrib
 
+projects[entity_translation][version] = "1.0-beta3"
+projects[entity_translation][subdir] = contrib
+
 projects[features][version] = "1.0"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
@@ -103,8 +106,14 @@ projects[flag][subdir] = contrib
 projects[inline_entity_form][version] = "1.0"
 projects[inline_entity_form][subdir] = contrib
 
+projects[i18n][version] = "1.10"
+projects[i18n][subdir] = contrib
+
 projects[link][version] = "1.0"
 projects[link][subdir] = contrib
+
+projects[module_filter][version] = "1.8"
+projects[module_filter][subdir] = contrib
 
 projects[og][version] = "2.0-rc3"
 projects[og][subdir] = contrib
@@ -130,6 +139,9 @@ projects[strongarm][subdir] = "contrib"
 
 projects[token][version] = "1.4"
 projects[token][subdir] = contrib
+
+projects[variable][version] = ""
+projects[variable][subdir] = contrib
 
 projects[views][version] = "3.5"
 projects[views][type] = "module"
